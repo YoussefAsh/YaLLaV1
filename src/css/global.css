@@ -1962,3 +1962,15 @@ margin-top: 30px;
     }
   }
   
+  @media(max-width:768px){
+    .articleFooter{
+      height:1000px;
+
+    }
+    .articleInventory{
+      height:1000px;
+    }
+    .article{
+      width:200px;
+    }
+  }
